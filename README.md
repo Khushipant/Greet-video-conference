@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 # Greet
-=======
-<<<<<<< HEAD
-greet
 =======
 <h1>You Can Visit The Website At : </h1> http://zoom-clone-two-iota.vercel.app/
 <br>
@@ -43,5 +40,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 2dbb93f (README.md)
->>>>>>> 3f2cab4 (Initial commit)
+
